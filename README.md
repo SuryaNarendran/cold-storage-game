@@ -1,6 +1,7 @@
 # Cold Storage
 
-Control the flow of temperature in this isometric puzzler. A game made in 7 days for the Level Up Circle Jam 2021!
+Control the flow of temperature in this isometric puzzler. 
+A game made in 7 days for the Level Up Circle Jam 2021!
 All code written by me is available for use under the Attribution Non-Commercial License. 
 
 Note: This version of the project does not include the music track, which is not under the public domain. For the music, do check out the Space Casual Music Pack by Andrey Sitkov!
