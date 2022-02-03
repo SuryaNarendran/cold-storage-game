@@ -4,8 +4,6 @@ Control the flow of temperature in this isometric puzzler.
 
 A game made in 7 days for the Level Up Circle Jam 2021! You can play it online here: https://suryanaren.itch.io/coldstorage
 
-All code in this repository written by me is available for use under the CC Attribution-NonCommercial-ShareAlike 4.0 International license.
-
 Note: This version of the project does not include the music track, which is not under the public domain. For the music, do check out the Space Casual Music Pack by Andrey Sitkov!
 
 
