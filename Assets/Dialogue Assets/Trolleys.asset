@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598ea2aa934fc764287c880c42c9ae09, type: 3}
+  m_Name: Trolleys
+  m_EditorClassIdentifier: 
+  dialogueNodes:
+  - content: Our design team has assured us that the trolleys are only meant to move
+      along one direction. It's much more simple and elegant, they say.
+  - content: 'In case of a trolley deadlock, workers are instructed to call upon
+      the  nearest technical specialist for assistance. '

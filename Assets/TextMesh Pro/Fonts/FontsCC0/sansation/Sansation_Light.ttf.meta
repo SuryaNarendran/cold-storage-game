@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2c30ef60c7432c246af662aa5a9d1afd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sansation Light
+  fontNames:
+  - Sansation Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 947a5c9ef3522784b87f0aa93b8d1c6d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

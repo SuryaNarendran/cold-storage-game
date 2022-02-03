@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598ea2aa934fc764287c880c42c9ae09, type: 3}
+  m_Name: Tutorial 1
+  m_EditorClassIdentifier: 
+  dialogueNodes:
+  - content: 'Hello! You must be tech support, glad you''re here. Has anyone explained
+      the situation to you? '
+  - content: No? Not to worry, I'll bring you up to speed. One of our warehouses
+      near the North Pole is experiencing some problems. All the doors suddenly locked
+      themselves and now nobody can enter.
+  - content: 'The doors are temperature-controlled, and they''re only supposed to
+      lock in an emergency...but someone must have messed up when they made the system.
+      Never trust contract labour, I tell you. '
+  - content: 'Anyway, thankfully we''re prepared for these situations. Everything
+      at our facility can be controlled remotely, so you shouldn''t have trouble
+      fixing this. '
+  - content: 'This room looks pretty chilly! Try clicking on the door to get a better
+      look at the temperature readings. '

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598ea2aa934fc764287c880c42c9ae09, type: 3}
+  m_Name: Broken window
+  m_EditorClassIdentifier: 
+  dialogueNodes:
+  - content: Our systems are state-of-the-art, as you've seen by now. We're a global
+      business, and we make sure that all our technology is cutting-edge and well
+      taken care of.
+  - content: Oh...this window's broken I think. I told the janitor to fix it last
+      week...
+  - content: Maybe we can block off the cold wind somehow. There's got to be some
+      way.
