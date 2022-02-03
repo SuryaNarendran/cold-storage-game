@@ -11,9 +11,13 @@ Note: This version of the project does not include the music track, which is not
 #Credits
 
 Code:
+
 UnityTimer by Alexander Biggs and Adam Robinson-Yu : https://github.com/akbiggs/UnityTimer
+
 Unity A-Star by LifeIsGood : https://github.com/LifeIsGoodMI/Unity-A-Star
+
 Ultimate Outline shader by Shrimpey: https://github.com/Shrimpey/UltimateOutline
+
 DOTween by Demigiant : http://dotween.demigiant.com/
 
 
